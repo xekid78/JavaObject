@@ -1,4 +1,4 @@
-# Java_SampleCode28
+# JavaSampleCode28
 文字列も配列もオブジェクト
 
 #### 処理
